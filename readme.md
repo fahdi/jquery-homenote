@@ -1,6 +1,6 @@
-#HomeNote.js - a simple jQuery mortgage calculator
+# HomeNote.js - a simple jQuery mortgage calculator
 
-##[View it on Codepen](http://codepen.io/kylephillips/pen/YPXzzq)
+## [View it on Codepen](http://codepen.io/kylephillips/pen/YPXzzq)
 
  * Allows calculations on both total months or total years in term
  * Down payment may be provided in either a percentage or lump sum payment (dollar amount)
@@ -8,7 +8,7 @@
  ![Screenshot](https://raw.githubusercontent.com/kylephillips/homenote/master/example/images/screenshot.png)
 
 
-##How to use
+## How to use
 Include jQuery and homenote.js in your layout and target the container the form will appear in with homenote().
 
 
@@ -21,7 +21,7 @@ $(function(){
 ```
 
 
-###Pass it some options:
+### Pass it some options:
 | Options       | Type           | Default  |  Description
 | ------------- |:-------------:| -----|:---------:
 | currencysym      | string | $ | Currency symbol used in form
